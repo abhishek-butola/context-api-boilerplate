@@ -1,0 +1,7 @@
+{
+  "name": "context-api-boilerplate",
+  "version": "1.0.0",
+  "bin": {
+    "gen-context": "./cli.js"
+  }
+}
