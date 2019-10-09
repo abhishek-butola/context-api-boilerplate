@@ -1,2 +1,11 @@
-#context-api-boilerplate
+# context-api-boilerplate
 ![Alt text](https://img.shields.io/npm/v/context-api-boilerplate)
+
+```sh
+npm i context-api-boilerplate
+```
+
+To generate the context
+```sh
+context-gen nameofthecontext
+```
