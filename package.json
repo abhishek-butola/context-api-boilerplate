@@ -1,6 +1,12 @@
 {
   "name": "context-api-boilerplate",
-  "version": "1.0.0",
+  "description": "Generates react context api boilerplate",
+  "version": "1.0.2",
+  "license": "MIT",
+  "keywords": [
+    "Reactjs",
+    "contextapi"
+  ],
   "bin": {
     "gen-context": "./cli.js"
   }
