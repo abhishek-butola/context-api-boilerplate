@@ -11,5 +11,5 @@ npm i context-api-boilerplate
 To generate the context
 
 ```sh
-context-gen nameofthecontext
+gen-context nameofthecontext
 ```
